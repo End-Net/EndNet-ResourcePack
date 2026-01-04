@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "endnet_tools:item/ore_pickaxe_golden"
+  }
+}
