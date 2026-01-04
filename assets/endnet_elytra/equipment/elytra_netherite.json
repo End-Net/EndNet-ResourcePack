@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "endnet_elytra:elytra_netherite",
+        "use_player_texture": false
+      }
+    ]
+  }
+}
