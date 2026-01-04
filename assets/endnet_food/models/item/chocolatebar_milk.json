@@ -1,0 +1,35 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "endnet_food:item/chocolatebar_milk"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-85, -88, -138],
+			"translation": [0, 3, 1],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [20, 88, 38],
+			"translation": [0, 3, 1],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [25, -70, 0],
+			"translation": [3, 3, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [25, 90, 0],
+			"translation": [3, 3, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"head": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 6.75, -2.75],
+			"scale": [0.75, 0.75, 0.75]
+		}
+	}
+}

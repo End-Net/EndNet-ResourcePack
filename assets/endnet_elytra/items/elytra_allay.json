@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "endnet_elytra:item/elytra_allay"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "endnet_elytra:item/elytra_allay_broken"
+    },
+    "property": "minecraft:broken"
+  }
+}

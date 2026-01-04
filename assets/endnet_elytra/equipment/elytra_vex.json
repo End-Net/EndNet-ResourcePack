@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "endnet_elytra:elytra_vex",
+        "use_player_texture": false
+      }
+    ]
+  }
+}

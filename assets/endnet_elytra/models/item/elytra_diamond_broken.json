@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "endnet_elytra:item/elytra_diamond_broken"
+  }
+}
