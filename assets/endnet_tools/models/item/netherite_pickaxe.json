@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "endnet_tools:item/netherite_pickaxe"
+  }
+}
