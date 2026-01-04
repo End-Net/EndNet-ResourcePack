@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "endnet_elytra:elytra_dragon2",
+        "use_player_texture": false
+      }
+    ]
+  }
+}

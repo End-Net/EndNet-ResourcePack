@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "example:item/dino_onesie_chestplate",
+    "layer1": "example:item/dino_onesie_chestplate_overlay"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "credit": "by Hoffen _InkGhoul",
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "particle": "endnet_food:item/zoo_churro",
+    "layer0": "endnet_food:item/zoo_churro"
+  },
+  "gui_light": "front",
+  "display": {}
+}

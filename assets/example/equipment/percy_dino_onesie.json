@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "example:percy_dino_onesie"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "example:percy_dino_onesie"
+      }
+    ]
+  }
+}
