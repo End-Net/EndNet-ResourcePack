@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "hc:item/fisherman_grian_manifesting_destiny"
+  }
+}
